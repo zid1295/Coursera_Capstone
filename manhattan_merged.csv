@@ -1,0 +1,41 @@
+Borough,Neighborhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+Manhattan,Marble Hill,40.87655077879964,-73.91065965862981,1,Sandwich Place,Gym,Coffee Shop,Yoga Studio,Deli / Bodega,Steakhouse,Shopping Mall,Seafood Restaurant,Pizza Place,Department Store
+Manhattan,Chinatown,40.71561842231432,-73.99427936255978,1,Chinese Restaurant,Cocktail Bar,American Restaurant,Spa,Bakery,Hotpot Restaurant,Optical Shop,Vietnamese Restaurant,Salon / Barbershop,Dessert Shop
+Manhattan,Washington Heights,40.85190252555305,-73.93690027985234,0,Café,Bakery,Grocery Store,Chinese Restaurant,Mobile Phone Shop,Latin American Restaurant,Deli / Bodega,Tapas Restaurant,New American Restaurant,Park
+Manhattan,Inwood,40.86768396449915,-73.92121042203897,0,Mexican Restaurant,Lounge,Restaurant,Café,Pizza Place,Wine Bar,American Restaurant,Bakery,Frozen Yogurt Shop,Deli / Bodega
+Manhattan,Hamilton Heights,40.823604284811935,-73.94968791883366,0,Pizza Place,Coffee Shop,Café,Mexican Restaurant,Sandwich Place,Indian Restaurant,Sushi Restaurant,Park,Deli / Bodega,Yoga Studio
+Manhattan,Manhattanville,40.8169344294978,-73.9573853935188,1,Coffee Shop,Seafood Restaurant,Italian Restaurant,Mexican Restaurant,Chinese Restaurant,Park,Deli / Bodega,Supermarket,Boutique,Spanish Restaurant
+Manhattan,Central Harlem,40.81597606742414,-73.94321112603905,1,African Restaurant,Bar,French Restaurant,American Restaurant,Seafood Restaurant,Chinese Restaurant,Caribbean Restaurant,Spa,Dessert Shop,Beer Bar
+Manhattan,East Harlem,40.79224946663033,-73.94418223148524,0,Mexican Restaurant,Bakery,Thai Restaurant,Latin American Restaurant,Deli / Bodega,Taco Place,Gym,Grocery Store,Beer Bar,Liquor Store
+Manhattan,Upper East Side,40.775638573301805,-73.96050763135,1,Italian Restaurant,Coffee Shop,Exhibit,Art Gallery,Bakery,Gym / Fitness Center,Juice Bar,Pizza Place,French Restaurant,Yoga Studio
+Manhattan,Yorkville,40.775929849884875,-73.94711784471826,1,Italian Restaurant,Gym,Coffee Shop,Bar,Deli / Bodega,Pizza Place,Diner,Mexican Restaurant,Sushi Restaurant,Japanese Restaurant
+Manhattan,Lenox Hill,40.76811265828733,-73.9588596881376,1,Italian Restaurant,Coffee Shop,Sushi Restaurant,Pizza Place,Cocktail Bar,Burger Joint,Café,Gym,Gym / Fitness Center,Mexican Restaurant
+Manhattan,Roosevelt Island,40.76215960576283,-73.94916769227953,4,Sandwich Place,Coffee Shop,Gym,Park,Soccer Field,Farmers Market,Supermarket,Metro Station,School,Outdoors & Recreation
+Manhattan,Upper West Side,40.787657998534854,-73.97705923630603,1,Italian Restaurant,Wine Bar,Bar,Coffee Shop,Indian Restaurant,Bakery,Café,Mediterranean Restaurant,Restaurant,Pub
+Manhattan,Lincoln Square,40.77352888942166,-73.98533777001262,2,Plaza,Theater,Italian Restaurant,Café,Performing Arts Venue,Concert Hall,Gym,French Restaurant,American Restaurant,Indie Movie Theater
+Manhattan,Clinton,40.75910089146212,-73.99611936309479,2,Theater,Italian Restaurant,Gym / Fitness Center,American Restaurant,Coffee Shop,Spa,Hotel,Wine Shop,Gym,Sandwich Place
+Manhattan,Midtown,40.75469110270623,-73.98166882730304,1,Hotel,Coffee Shop,Clothing Store,Bookstore,American Restaurant,Theater,Bakery,Sporting Goods Shop,Café,French Restaurant
+Manhattan,Murray Hill,40.748303077252174,-73.97833207924127,1,Sandwich Place,Coffee Shop,American Restaurant,Japanese Restaurant,Italian Restaurant,Gym / Fitness Center,Mediterranean Restaurant,Hotel,Gym,Chinese Restaurant
+Manhattan,Chelsea,40.744034706747975,-74.00311633472813,1,Coffee Shop,Bakery,Italian Restaurant,American Restaurant,Ice Cream Shop,Hotel,Wine Shop,Breakfast Spot,Tapas Restaurant,Cycle Studio
+Manhattan,Greenwich Village,40.72693288536128,-73.99991402945902,1,Italian Restaurant,Clothing Store,Sushi Restaurant,Café,Indian Restaurant,French Restaurant,Gym,Chinese Restaurant,Gourmet Shop,Dessert Shop
+Manhattan,East Village,40.727846777270244,-73.98222616506416,1,Bar,Ice Cream Shop,Mexican Restaurant,Pizza Place,Wine Bar,Cocktail Bar,Vegetarian / Vegan Restaurant,Korean Restaurant,Speakeasy,Italian Restaurant
+Manhattan,Lower East Side,40.71780674892765,-73.98089031999291,0,Chinese Restaurant,Pizza Place,Coffee Shop,Café,Sandwich Place,Cocktail Bar,Bakery,Ramen Restaurant,Art Gallery,Japanese Restaurant
+Manhattan,Tribeca,40.721521967443216,-74.01068328559087,2,American Restaurant,Park,Italian Restaurant,Café,Spa,Wine Bar,Men's Store,Greek Restaurant,Coffee Shop,Hotel
+Manhattan,Little Italy,40.71932379395907,-73.99730467208073,1,Café,Bakery,Bubble Tea Shop,Italian Restaurant,Cocktail Bar,Sandwich Place,Hotel,Salon / Barbershop,Mediterranean Restaurant,Japanese Restaurant
+Manhattan,Soho,40.72218384131794,-74.00065666959759,1,Clothing Store,Women's Store,Shoe Store,Boutique,Hotel,Men's Store,Mediterranean Restaurant,Sporting Goods Shop,Italian Restaurant,Bakery
+Manhattan,West Village,40.73443393572434,-74.00617998126812,2,Italian Restaurant,New American Restaurant,American Restaurant,Jazz Club,Cocktail Bar,Park,Wine Bar,Bakery,Ice Cream Shop,Theater
+Manhattan,Manhattan Valley,40.797307041702865,-73.96428617740655,0,Pizza Place,Bar,Mexican Restaurant,Indian Restaurant,Coffee Shop,Playground,Thai Restaurant,Yoga Studio,Korean Restaurant,Hostel
+Manhattan,Morningside Heights,40.807999738165826,-73.96389627905332,1,Park,Bookstore,American Restaurant,Coffee Shop,Burger Joint,Sandwich Place,Deli / Bodega,Supermarket,Café,Seafood Restaurant
+Manhattan,Gramercy,40.737209832715,-73.98137594833541,1,Italian Restaurant,Bar,American Restaurant,Pizza Place,Bagel Shop,Mexican Restaurant,Cocktail Bar,Playground,Hotel,Grocery Store
+Manhattan,Battery Park City,40.71193198394565,-74.01686930508617,1,Coffee Shop,Park,Hotel,Wine Shop,Boat or Ferry,Memorial Site,Shopping Mall,Gym,Italian Restaurant,Food Court
+Manhattan,Financial District,40.70710710727048,-74.0106654452127,1,Coffee Shop,American Restaurant,Bar,Italian Restaurant,Gym,Pizza Place,Gym / Fitness Center,Food Truck,Steakhouse,Cocktail Bar
+Manhattan,Carnegie Hill,40.7826825671257,-73.95325646837112,1,Coffee Shop,Pizza Place,Café,Yoga Studio,Japanese Restaurant,Gym / Fitness Center,Gym,French Restaurant,Cosmetics Shop,Bookstore
+Manhattan,Noho,40.72325901885768,-73.98843368023597,1,Italian Restaurant,Cocktail Bar,Hotel,French Restaurant,Coffee Shop,Sushi Restaurant,Art Gallery,Gift Shop,Grocery Store,American Restaurant
+Manhattan,Civic Center,40.71522892046282,-74.00541529873355,1,Coffee Shop,Gym / Fitness Center,French Restaurant,Hotel,Spa,Sandwich Place,Cocktail Bar,Bakery,Yoga Studio,Park
+Manhattan,Midtown South,40.7485096643122,-73.98871313285247,1,Korean Restaurant,Hotel Bar,Hotel,Japanese Restaurant,Dessert Shop,Gym / Fitness Center,Coffee Shop,Cocktail Bar,American Restaurant,Scenic Lookout
+Manhattan,Sutton Place,40.76028033131374,-73.96355614094303,1,Gym / Fitness Center,Italian Restaurant,Gym,Furniture / Home Store,Coffee Shop,Indian Restaurant,Beer Bar,Beer Garden,Chinese Restaurant,Dessert Shop
+Manhattan,Turtle Bay,40.75204236950722,-73.96770824581834,1,Italian Restaurant,Coffee Shop,Steakhouse,Sushi Restaurant,Wine Bar,Japanese Restaurant,French Restaurant,Park,Ramen Restaurant,Indian Restaurant
+Manhattan,Tudor City,40.746917410740195,-73.97121928722265,0,Park,Mexican Restaurant,Café,Deli / Bodega,Diner,Pizza Place,Coffee Shop,Asian Restaurant,Greek Restaurant,Gym
+Manhattan,Stuyvesant Town,40.73099955477061,-73.97405170469203,3,Bar,Park,Baseball Field,Heliport,Gas Station,German Restaurant,Boat or Ferry,Farmers Market,Bistro,Gym / Fitness Center
+Manhattan,Flatiron,40.739673047638426,-73.9909471052826,1,Yoga Studio,American Restaurant,Café,Japanese Restaurant,Gym / Fitness Center,Cycle Studio,Spa,New American Restaurant,Mediterranean Restaurant,Vegetarian / Vegan Restaurant
+Manhattan,Hudson Yards,40.75665808227519,-74.00011136202637,2,American Restaurant,Italian Restaurant,Hotel,Gym / Fitness Center,Coffee Shop,Café,Thai Restaurant,Asian Restaurant,Dog Run,Spanish Restaurant
